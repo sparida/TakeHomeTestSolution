@@ -1,0 +1,10 @@
+1234: {deductible: 1000, stop_loss: 10000, oop_max: 6000}
+5678: {deductible: 2000, stop_loss: 10000, oop_max: 6000}
+1234: {deductible: 1000, stop_loss: 10000, oop_max: 6000}
+5678: {deductible: 2000, stop_loss: 10000, oop_max: 6000}
+1234: {deductible: 1000, stop_loss: 10000, oop_max: 6000}
+5678: {deductible: 2000, stop_loss: 10000, oop_max: 6000}
+1234: {deductible: 1000, stop_loss: 10000, oop_max: 6000}
+1234: {deductible: 1000, stop_loss: 10000, oop_max: 6000}
+5678: {deductible: 2000, stop_loss: 10000, oop_max: 6000}
+5678: {deductible: 2000, stop_loss: 10000, oop_max: 6000}
