@@ -1,7 +1,7 @@
 # To run main file execute:
 $ python3 Policies.py 
 
-This will run a series of tests using simulated API datat contained in text files within the "APIFiles" folder
+This will run a series of tests using simulated API data contained in text files within the "APIFiles" folder
 
 # Further Tests
 "Policies.py" uses "DataAPI.py" and "Member.py"
@@ -22,7 +22,7 @@ README.md - This file
 1. Consistent API - Return the same set of 3 values for a given member_id
 2. Valid API - Return valid entries for a given member id where validity tests are defined in "isValidMember" inside the "Member" class
 
-# Possible policies for determining true deductible in case of api results wit varying entries:
+# Possible policies for determining true deductible in case of API results wit varying entries:
 1. Simple Trust Policy - Choose an API to prefer according to order specified in "api_priority_order"
 2. Min Val Policy - Choose correct API based on min value of each field, with order of fields is specified in "field_priority order"
 3. Max Val Policy - Choose correct API based on min value of each field, with order of fields specified in "field_priority order"
